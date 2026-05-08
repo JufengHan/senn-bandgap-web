@@ -35,9 +35,9 @@ st.markdown(
 }
 
 .block-container {
-    padding-top: 2rem;
+    padding-top: 3.2rem;
     padding-bottom: 2rem;
-    max-width: 960px;
+    max-width: 1050px;
 }
 
 .title-text {
